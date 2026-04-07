@@ -77,6 +77,8 @@ pnpm format:check
 
 ## 截图
 
+![截图1](./picture/1.png)
+![截图2](./picture/2.png)
 
 
 ## 许可证
